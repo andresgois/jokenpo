@@ -1,12 +1,14 @@
 import React from "react";
-import { Text, View, Image } from "react-native";
+import { View, Image } from "react-native";
+
+const topo = require('../../imgs/jokenpo.png');
 
 export const Topo = () => {
   return (
     <View>
       <Image 
         style={{width: 420, height: 200}}
-        source={ require('../../imgs/logo.jpg')} 
+        source={topo} 
       />
     </View>
   );

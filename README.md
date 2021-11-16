@@ -1,6 +1,6 @@
 
 
-# Raect Native Jokenpô
+# React Native Jokenpô
 
 ## Stone, paper and scissors, also called jokenpô in some regions of Brazil
 
